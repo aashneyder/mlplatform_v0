@@ -1,0 +1,7 @@
+{
+    "name": "work_model1",
+    "implementation": "mlserver_mlflow.MLflowRuntime",
+    "parameters": {
+        "uri": "s3://project1/0/873ad32f50e3480db6050dbf06dbd740/artifacts/work_model1"
+    }
+}
